@@ -22,8 +22,8 @@ export function Navbar() {
             <nav className="bg-slate-300 flex justify-between items-center px-4 h-14 ">
                 <div className="logo-container hover:scale-110 flex gap-2 transition-transform">
                     <div className="logo font-bold md:text-2xl">
-                        Lock
-                        <span className="text-green-600">Craft </span>
+                        Auth
+                        <span className="text-green-600">Store </span>
                     </div>
                 </div>
 
